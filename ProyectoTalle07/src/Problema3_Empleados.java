@@ -35,4 +35,12 @@ public class Problema3_Empleados {
         }
 
     }
+/*** 
+ * Ingrese el nombre del empleado: manuel
+ * Ingrese el numero de dias trabajados: 10
+ * Ingrese el costo por dia trabajado: 80
+ * Reporte de Empleados:
+ * | Nombres | Num_dias trabajados | Cost_Dias Trabajados | CostoT a Pagar |
+ * | manuel | 10,00 | 80,00 | 800,00 |
+ */
 
