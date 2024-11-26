@@ -64,3 +64,14 @@ public class Problema4_JugadoresFutbol {
         System.out.println("\n" + reporte);
     }
 }
+/*** 
+ * Ingrese el nombre del jugador: Kendry Paez
+ * Ingrese la posición en el campo de juego: MCO
+ * Ingrese la edad del jugador: 17
+ * Ingrese la estatura del jugador (en metros): 1,8
+ * ¿Desea ingresar otro jugador? (sí/no): no
+ * Listado de Jugadores
+ * 1. Kendry Paez -MCO-, edad 17, estatura 1,80
+ * Promedio de edades: 17,0
+ * Promedio de estaturas: 1,80
+ */
