@@ -39,7 +39,6 @@ public class Problema6_Empresa {
     }
 }
 /***
- * DAME EL LIMITE: 10
  * Venta #1
  * Nombre del cliente: Pepe
  * Costo de la computadora ($): 3000
