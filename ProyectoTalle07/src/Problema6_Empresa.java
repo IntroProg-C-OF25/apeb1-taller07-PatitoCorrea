@@ -38,3 +38,16 @@ public class Problema6_Empresa {
         System.out.printf("Total acumulado de ventas: $%.2f\n", totalVentas);
     }
 }
+/***
+ * DAME EL LIMITE: 10
+ * Venta #1
+ * Nombre del cliente: Pepe
+ * Costo de la computadora ($): 3000
+ * Tipo de cliente (1, 2, otro): 1
+ * 
+ * Venta #2
+ * Nombre del cliente: Carlos
+ * Costo de la computadora ($): 2500
+ * Tipo de cliente (1, 2, otro): 2
+ */
+
