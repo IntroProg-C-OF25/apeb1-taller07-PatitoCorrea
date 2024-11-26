@@ -29,5 +29,9 @@ public class Problema5_EstudianteReporte {
             System.out.println("");
         }
     }
-    
 }
+ /***
+ * DAME EL NOMBRE DEL ESTUDIANTE Y PROMEDIO DEL EST_1: Manuel 10
+ * | NOMBRE | PROMEDIO | ESTADO |
+ * | Manuel | 10,00 | Aprobado |
+ */
