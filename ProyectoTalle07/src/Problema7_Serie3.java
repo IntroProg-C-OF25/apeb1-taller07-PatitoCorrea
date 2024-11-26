@@ -19,3 +19,6 @@ public class Problema7_Serie3 {
         System.out.printf("La sumatoria alternada es: %.5f\n", sumatoria);
     }
 }
+/***
+ * La sumatoria alternada es: 0,35437
+ */
